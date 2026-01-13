@@ -3,7 +3,7 @@ Unlike conventional means of shaving electricity peaks, the presented method ada
 
 
 
-The required inputs of the system are the total expexted renewable energy generation (Solar + Wind + Hydro, ....) (MW) and the overall electricity (MW) demand alongside the power capacity of the used battery (MWh). The algorithm does the rest.
+The required inputs of the system are the total expected renewable energy generation (Solar + Wind + Hydro, ....) (MW) and the overall electricity (MW) demand alongside the power capacity of the used battery (MWh). The algorithm does the rest.
 
 If you want to cite the algorithm, please use the following paper:
 
