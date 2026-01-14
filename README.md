@@ -5,6 +5,13 @@ Unlike conventional means of shaving electricity peaks, the presented method ada
 
 The required inputs of the system are the total expected renewable energy generation (Solar + Wind + Hydro, ....) (MW) and the overall electricity (MW) demand alongside the power capacity of the used battery (MWh). The algorithm does the rest.
 
-If you want to cite the algorithm, please use the following paper:
+## Contributing and Support
 
-Kaabinejadian A, Pozarlik A, Acar C. Deep learning-enhanced techno-economic optimization of hybrid wind-solar-hydrogen system for Dutch heating networks. International Journal of Hydrogen Energy. 2026 Feb 4;206:153445.
+If you have any ideas, suggestions or encounter problems, feel invited to file issues or make pull requests on GitHub. I strongly welcome constructive ideas leading to improving the model or broadening implications.
+
+
+## Citing the Adaptive Peak Shaver
+
+If you use this algorithm  for your research, please cite the following paper:
+
+* Kaabinejadian A, Pozarlik A, Acar C. Deep learning-enhanced techno-economic optimization of hybrid wind-solar-hydrogen system for Dutch heating networks. International Journal of Hydrogen Energy. 2026 Feb 4;206:153445.
