@@ -1,7 +1,7 @@
 # Adaptive-Peak-Shaver
 Unlike conventional peak-shaving approaches, this method adaptively determines feasible peak caps based on the charge/discharge capacity of the battery energy storage system (BESS). The developed BESS algorithm manages the power dispatch strategy to support both residential power supply and green hydrogen production.
 
-The required inputs are: (i) the hourly- or daily-based renewable energy generation (e.g., solar, wind, hydro) in MW, (ii) the hourly- or daily-based electricity demand in MW, and (iii) the battery’s energy capacity in MWh. The algorithm does the rest.
+The required inputs are: (i) the hourly- or daily-based renewable energy generation profile (e.g., solar, wind, hydro) in MW, (ii) the hourly- or daily-based electricity demand profile in MW, and (iii) the battery’s energy capacity in MWh. The algorithm does the rest.
 
 ## Contributing and Support
 
