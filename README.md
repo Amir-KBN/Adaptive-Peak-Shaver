@@ -5,7 +5,7 @@ The required inputs are: (i) the hourly- or daily-based renewable energy generat
 
 ## Contributing and Support
 
-If you have any ideas, suggestions or encounter problems, feel invited to file issues or make pull requests on GitHub. I strongly welcome constructive ideas leading to improving the model or broadening implications.
+If you have any ideas, suggestions or encounter problems, feel invited to file issues or make pull requests on GitHub. I strongly welcome constructive ideas leading to improving the model or broadening the implications.
 
 
 ## Citing the Adaptive Peak Shaver
