@@ -10,6 +10,6 @@ If you have any ideas, suggestions or encounter problems, feel invited to file i
 
 ## Citing the Adaptive Peak Shaver
 
-If you use this algorithm  for your research, please cite the following paper:
+If you would like to use this algorithm for your research, please cite the following paper:
 
 * Kaabinejadian A, Pozarlik A, Acar C. Deep learning-enhanced techno-economic optimization of hybrid wind-solar-hydrogen system for Dutch heating networks. International Journal of Hydrogen Energy. 2026 Feb 4;206:153445.
